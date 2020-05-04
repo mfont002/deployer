@@ -3,7 +3,7 @@
 
 
 About - 
-All the methods in the boto3 api use key/value pair structures for input parameters.  
+All the methods in the boto3 api use key/value pair structures for input parameters  
 This makes it easy to structure an ini file to create almost any object with boto3 since an ini file can be easily 
 converted to a dictionary of key/value pairs and passed to boto3.  This should provide more simplicity than using 
 yaml or json templates to create cloud resources as they often require different and sometime complex semantics and 
