@@ -1,5 +1,5 @@
 
-# Deploys aws resources from ini files.
+# Deploys aws resources from ini files
 
 
 About - 
