@@ -20,7 +20,7 @@ when creating, the result will be saved to the out-error-files.
 Does not handle dependent resources, i.e., when creating a lambda resource, if an s3 bucket is needed it must exist before
 trying to create the lambda resource. Process the s3 bucket ini file 1st if it does not exist.
 
-Structuring an ini file to create an aws resource: see "example.ini" file in config dir for guidance
+Structuring an ini file to create an aws resource: see "example.ini" file in config dir for guidance.
 
 
 
